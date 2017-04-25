@@ -5,6 +5,7 @@ robots.txt
 #########
 MANIFEST.MF
 dependency-reduced-pom.xml
+foo.bar
 
 # Compiled #
 ############
