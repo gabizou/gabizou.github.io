@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/gabizou
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gabizou.com
+  * I am gabizou (https://keybase.io/gabizou) on keybase.
+  * I have a public key with fingerprint AD3E 797E 9F7B 725C F3AF  604D F34C 08E5 B2D6 7A0A
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ff1c569c0b7af3c6e9e8414dfd499e25530144207a7695a0e461b4259c18d4cb0a",
+      "fingerprint": "ad3e797e9f7b725cf3af604df34c08e5b2d67a0a",
+      "host": "keybase.io",
+      "key_id": "f34c08e5b2d67a0a",
+      "kid": "010132f19359d3e9f6987054eb1ea250315ab46e3e318e6bc3294e2f6406e63c282b0a",
+      "uid": "872deaa3a1414f8bf476e7cdf3c5b019",
+      "username": "gabizou"
+    },
+    "service": {
+      "hostname": "gabizou.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1593805137,
+  "expire_in": 157680000,
+  "prev": "dde40374da2c5ff66c9d4881b01e38014467e74445c63b364b9caa97646564db",
+  "seqno": 35,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtUm1QVFUYXlCMGCwKYzAw4UqZueD9OPdrAxuYzAqIVT4ERNb7ce56B9i77gcu
+u+AMmlPYwKCUEY5BmoFOjIEgTBMTDRIYRgwQEKNYJiQjuoMY5DC63aX40Uznz5nz
+nud53ud5z6lcvULj7zOX5D/ZPOIM8Omb5jW5nrJ0F8IrYhGicyF5cGmD+SK02gx5
+sojoEBTDUUnCBJJiBZSnOYkQKMhCBmBAlETAshAnSQLFAMBRmqMpluRQCCiMBzjJ
+ChgjAoFHOUSLSLLJCC1mi2yyqbKcSECapSEr0TyNk4JEcBKFqpIEEFAGkjwuUjS3
+RNynWL0M1RzPWWGMrKg19WBYsvc/+GXfKEbgEsYSJKv2YiWKZWiUBJDHIIeTKIGR
+HA8oSEACYyDFCwTOAohLFEApSBECzuD/+LYvyTE0LkKOIzhMDS4xvARoCtKC6lcg
+eRRjvUArtJi4AqiijRwvOxU7UqJF1GKhLEDvXL1B/guIEZQClWm2KDZFUPLVi302
+m9mq8xJtRWYv8gDkDf9qGHjZJKpTVBmF0GKVFROiw1SkYJO9ohjJEgxKYgStRaDD
+LFugQfYiSJpiUHV5+8BCVVIUIUAJGoi7OFwgJYmiBFYEDIOpQaAqob4lRUMaAEAK
+FMETFOBZgeNYmgIUSQGRR7yx9psUREeQqlHOqIpaZaOJs9ktECkJKPMlVmp8/DXr
+QiJXNm4tOljrsuTMXdibvPz1/Hy9/04T8GTQcmXsh6c9eesbEjZlGWtODWXGnL7x
+2cyes3EJQ9nfpBzyPByY13oqG8rLi5/vSzZpDAuL4bOFr8rP9RjozqDEtw6HRoyO
+v13rNxEVHH3tVsV4Wnyrr1WurGqJdR5xz/h0fb82JPZx4GxGWzDyQX4UqP+kYPa1
++fsm44nF986lvpJT4/6tUdl9Oe7F/Iyh0T8/7UhrWbPOvqPOc8Td1XS2LGn45Pne
+hHfXr53S1bl/f2JrQNHt6d7wrPiwwcn04bBfJxrvPhs7uHkiu9U5XMW2f7TY3VE9
+8yhADrv5ZcfXdzwnGojwwEzrlsWR21+Vf7sxIpjb0ZNyzH/1ztcDN8zoAytq3nRc
+fGkqS9kfdW+s/TskDO01u/YeuBPS2ny08OMIfXVfC1/afpdw/zxSdcTuYm2rustr
+mzodoZG/cDZHxsa27QPJkYHGo3KO+dDErWGuoqceH7h04bjz2PXdK+qT/lh443h2
+9bbx4sM/xl7rmrRseybCodPX+PWvupJ5SunQZy2mfq6/cnA2eKAKa546WVuaNHbe
+aTfkxj81OXoPD00jtoxGh38BzgV1uQao+sqphdKIS/Rlm3y1wL+0/eWdG04bHhgf
+9j6m5o0p8zf+6u5MzP5w+5lsrfNm2334U9Iay1zT+/0Ov4gz8qzfvNx/MddW/EC7
+6/qm6D2Jcel1m68yJan6d3wynYMvtLofTZf+DQ==
+=2W14
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gabizou
+
+==================================================================
